@@ -1,0 +1,121 @@
+student_id,grade,favorite_subject,hours_sleep,screen_hours,focus_score,minutes_reading,favorite_snack,pet,likes_coding
+1,8,PE,6.4,4.6,54,33,Chips,Hamster,no
+2,7,PE,6.1,1.0,67,12,Fruit,Bird,yes
+3,8,Coding,8.8,2.8,76,35,Cookies,None,no
+4,6,Science,6.9,4.7,55,33,Cookies,Hamster,yes
+5,7,Science,9.2,4.5,78,21,Cookies,Hamster,no
+6,6,PE,8.8,0.8,84,48,Fruit,Dog,no
+7,7,History,7.1,4.0,59,31,Crackers,Bird,no
+8,6,PE,8.4,1.4,73,52,Crackers,Bird,no
+9,8,Math,6.9,2.3,64,47,Fruit,Hamster,yes
+10,8,Music,7.3,4.1,68,37,Fruit,None,no
+11,6,English,7.0,3.6,67,27,Fruit,Hamster,no
+12,7,Science,6.4,0.8,65,43,Crackers,Fish,yes
+13,8,Coding,6.3,2.6,64,64,Crackers,Dog,yes
+14,8,History,9.5,4.6,69,39,Popcorn,Dog,no
+15,8,Art,9.5,1.9,81,51,Granola bar,Hamster,no
+16,6,Math,6.6,4.7,60,48,Chips,None,yes
+17,7,Science,7.0,1.8,64,29,Fruit,Cat,yes
+18,8,English,7.9,3.5,69,45,Fruit,Hamster,no
+19,8,Music,8.8,4.4,76,25,Chips,Cat,no
+20,6,PE,6.3,0.6,70,21,Crackers,Bird,yes
+21,6,History,6.9,5.5,52,46,Fruit,Bird,yes
+22,8,Coding,8.3,1.8,79,57,Chips,Bird,yes
+23,7,Math,7.4,2.8,70,41,Cookies,Dog,yes
+24,6,Art,6.8,3.4,62,34,Fruit,Dog,yes
+25,7,Science,9.2,5.2,65,63,Fruit,Cat,no
+26,7,Music,7.9,1.7,79,34,Chips,Fish,yes
+27,7,English,9.7,4.8,73,92,Crackers,Fish,no
+28,6,Math,6.8,1.7,69,21,Crackers,None,yes
+29,6,Art,6.2,3.1,56,5,Chips,Bird,yes
+30,6,PE,7.6,5.7,61,33,Chips,Fish,yes
+31,8,English,8.3,3.4,67,42,Crackers,Bird,no
+32,7,Science,7.8,5.6,56,24,Granola bar,Dog,yes
+33,6,Art,8.2,3.3,76,57,Fruit,Fish,no
+34,8,Math,8.8,3.9,74,14,Crackers,Dog,yes
+35,6,Art,7.1,5.4,56,16,Crackers,None,yes
+36,8,Math,8.0,5.5,58,20,Cookies,Dog,yes
+37,6,English,7.3,1.2,68,23,Chips,Dog,no
+38,8,History,9.6,3.5,78,53,Fruit,Dog,yes
+39,7,Math,7.5,5.6,65,37,Granola bar,Fish,yes
+40,8,PE,9.0,5.6,72,46,Fruit,Fish,no
+41,6,Music,6.7,5.6,60,52,Crackers,Dog,yes
+42,7,PE,9.5,5.2,68,14,Cookies,None,no
+43,6,Music,6.9,4.1,60,60,Crackers,Hamster,yes
+44,7,History,8.7,5.1,73,15,Cookies,Cat,yes
+45,8,Science,9.9,2.0,84,20,Granola bar,Dog,yes
+46,7,Math,9.6,1.5,86,56,Granola bar,Bird,yes
+47,8,PE,9.8,4.6,73,55,Cookies,Bird,yes
+48,6,English,8.9,2.2,79,54,Crackers,None,yes
+49,8,Music,6.5,2.8,66,51,Granola bar,Dog,yes
+50,7,History,7.1,2.9,66,33,Fruit,Hamster,no
+51,7,Art,9.2,5.8,70,30,Chips,Cat,no
+52,8,Art,7.2,4.9,55,56,Popcorn,Hamster,yes
+53,6,PE,7.8,5.4,65,23,Crackers,Dog,yes
+54,6,Coding,9.1,1.7,75,45,Chips,Fish,yes
+55,6,History,9.2,4.2,78,61,Granola bar,Fish,no
+56,8,Coding,7.8,1.4,74,21,Crackers,None,yes
+57,8,Coding,7.9,1.8,69,32,Granola bar,Dog,yes
+58,6,Art,6.6,2.6,67,46,Popcorn,None,yes
+59,8,Music,7.9,0.8,75,39,Granola bar,Fish,yes
+60,7,Music,6.0,2.4,67,0,Popcorn,Hamster,no
+61,8,PE,8.9,4.9,69,32,Crackers,Bird,no
+62,7,Art,8.9,5.1,74,52,Popcorn,Hamster,no
+63,8,Music,8.7,1.0,76,30,Fruit,Fish,no
+64,7,English,7.4,5.3,64,46,Cookies,Dog,no
+65,7,History,6.1,3.5,56,79,Chips,Cat,yes
+66,6,PE,9.4,3.9,70,50,Granola bar,Cat,no
+67,7,Art,8.8,4.7,71,58,Fruit,None,no
+68,6,Music,8.3,5.6,63,29,Chips,Hamster,no
+69,8,English,9.3,1.8,85,38,Chips,None,no
+70,8,History,7.7,2.5,65,40,Popcorn,Dog,no
+71,7,Coding,9.8,4.0,79,12,Granola bar,Fish,yes
+72,7,English,7.7,4.5,62,54,Chips,None,yes
+73,7,Music,7.0,3.1,63,21,Cookies,None,no
+74,7,English,7.1,3.8,64,45,Fruit,Dog,no
+75,6,PE,8.9,3.2,77,24,Chips,None,no
+76,6,History,7.6,1.8,72,31,Popcorn,Bird,no
+77,8,English,7.3,4.4,60,47,Crackers,Hamster,yes
+78,8,Coding,6.7,1.7,65,58,Granola bar,Hamster,yes
+79,7,English,9.9,5.1,70,46,Cookies,Dog,no
+80,6,Art,8.2,4.3,69,37,Chips,Dog,no
+81,8,History,7.1,3.1,62,78,Chips,Fish,no
+82,7,Math,6.3,4.0,55,46,Chips,Cat,no
+83,6,PE,8.2,2.8,75,11,Granola bar,Fish,yes
+84,7,Science,8.3,0.8,84,57,Fruit,None,yes
+85,8,Science,6.3,1.8,61,15,Chips,Cat,yes
+86,7,Coding,8.8,4.4,65,47,Cookies,Bird,yes
+87,8,Music,8.6,5.6,61,36,Fruit,Dog,yes
+88,6,English,6.7,2.2,66,53,Cookies,Bird,no
+89,7,Coding,9.8,3.3,78,9,Granola bar,None,yes
+90,6,Math,6.4,5.8,60,16,Cookies,Hamster,yes
+91,6,Coding,9.1,1.5,85,43,Popcorn,Dog,yes
+92,7,Science,7.4,2.3,74,53,Crackers,Fish,yes
+93,7,Math,8.7,2.7,74,29,Granola bar,Dog,no
+94,8,Math,9.5,3.0,74,47,Popcorn,Bird,yes
+95,7,Art,9.0,1.6,85,13,Crackers,Hamster,yes
+96,6,Math,8.8,2.2,78,43,Chips,Fish,yes
+97,6,English,8.6,1.3,79,40,Fruit,Fish,no
+98,8,Art,6.6,1.5,72,63,Popcorn,None,yes
+99,8,English,7.1,0.5,78,25,Popcorn,Hamster,no
+100,7,Music,7.4,3.5,65,24,Fruit,Bird,yes
+101,6,Music,8.3,1.8,70,34,Popcorn,Bird,no
+102,8,Math,9.9,3.2,75,11,Chips,Fish,yes
+103,6,Art,8.1,3.0,70,30,Cookies,None,no
+104,8,History,8.8,4.1,75,37,Popcorn,None,no
+105,8,Math,8.9,4.7,71,37,Fruit,Bird,yes
+106,6,Science,7.7,1.0,74,57,Chips,Dog,yes
+107,7,History,9.2,2.1,78,45,Fruit,Cat,no
+108,6,PE,6.3,5.3,55,50,Fruit,Fish,no
+109,8,Math,7.0,1.9,74,22,Chips,Fish,yes
+110,7,Music,10.0,2.1,85,37,Cookies,Cat,no
+111,7,Music,9.4,1.1,84,0,Crackers,Fish,yes
+112,7,Math,6.0,5.3,59,13,Cookies,Cat,yes
+113,8,PE,9.2,1.7,82,24,Fruit,Bird,no
+114,6,English,9.6,4.1,79,23,Cookies,Bird,yes
+115,6,Music,6.4,2.1,61,47,Granola bar,Hamster,no
+116,7,Coding,9.3,1.9,86,48,Cookies,Dog,yes
+117,7,PE,9.9,1.3,89,28,Granola bar,None,no
+118,6,Science,9.2,0.6,83,0,Crackers,None,yes
+119,8,History,7.5,4.0,60,45,Granola bar,None,no
+120,8,Coding,6.9,0.8,77,38,Popcorn,Dog,yes
